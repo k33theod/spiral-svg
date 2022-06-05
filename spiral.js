@@ -1,4 +1,4 @@
-  function spiral2 (x, y, rx, ry, d, n)
+  function spiral (x, y, rx, ry, d, n)
   {
       let da = "M " + x.toString() +" "+ y.toString()+" ";
       let sx = x;
